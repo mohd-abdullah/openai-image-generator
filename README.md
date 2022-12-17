@@ -1,10 +1,10 @@
 # openai-image-generator
 
 ## Steps
-  * Run npm i
-  * Create env file with *PORT* and *OPENAI_API_KEY*
-  * Generate your key from  `https://openai.com/`
-  * RUn npm run dev
+  * Run *npm i*
+  * Create env file with **PORT** and **OPENAI_API_KEY**
+  * Generate your key from `https://openai.com/`
+  * Run *npm run dev*
   * Run project `http://localhost:5000/`
   
   
